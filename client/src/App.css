@@ -1,0 +1,39 @@
+/* App.css */
+.ResumeBuilder {
+  padding: 10px 10px 20px; /* Add padding as needed */
+  text-align: center; /* Center-align the content */
+  font-size: 24px; /* Set the font size */
+  color: rgb(75, 75, 230); /* Set the text color */
+
+  /* Text styles */
+  font-family: 'Times New Roman', Times, serif, sans-serif; /* Set the font family */
+  font-weight: bold; /* Set the font weight */
+  text-transform: uppercase; /* Convert text to uppercase */
+  letter-spacing: 1px; /* Adjust letter spacing */
+  text-decoration: underline; /* Add underline */
+  
+}
+.Form{
+  margin-top: -10px;
+  padding: 10px; /* Add padding as needed */
+  text-align: center; /* Center-align the content */
+  font-size: 18px; /* Set the font size */
+  color: rgb(119, 97, 248); /* Set the text color */
+  gap: 10px;
+  /* Text styles */
+  font-family: Georgia, 'Times New Roman', Times, serif; /* Set the font family */
+  font-weight: 50; /* Set the font weight */
+  letter-spacing: 0px; /* Adjust letter spacing */
+}
+
+/* .progressbar{
+  width: 600px;
+  height: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+}
+.progressbar{
+  widows: 20%;
+  height: 100%;
+  background-color: rgba(13, 110, 253, 1);
+} */
